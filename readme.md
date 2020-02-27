@@ -1,2 +1,2 @@
 # SVG Animation
-[![](static/svg-circle-path.png)](https://webid.biz/)
+[![](statics/svg-circle-path.png)](https://webid.biz/)
